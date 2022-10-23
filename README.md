@@ -1,9 +1,3 @@
-# go-example
+# Continuous Deployment with Fly and GitHub Actions
 
-A minimal Go application for [fly.io Getting Started](https://fly.io/docs/getting-started/golang/) documentation and tutorials.
-
-To get started:
-
-1. clone this repo
-2. `flyctl launch`
-3. view the deployed app with flyctl open
+[continuous-deployment-with-github-actions](https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/)
